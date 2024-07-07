@@ -1,0 +1,14 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn{
+    font-size: large;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 16px 25px;
+    border-radius: 16px;
+    background-color: gray;
+}
